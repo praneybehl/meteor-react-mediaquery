@@ -1,0 +1,1 @@
+MediaQuery = require('react-responsive');
